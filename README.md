@@ -1,2 +1,2 @@
 # LTE
-This class is the main class that run the Line Text Editor interface
+This program is a symple line text editor that could add, delete, edit a plain text file 
